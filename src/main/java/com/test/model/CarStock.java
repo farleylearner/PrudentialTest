@@ -1,5 +1,8 @@
 package com.test.model;
 
+/**
+ * car stock
+ */
 public class CarStock {
     private String type;
     private Integer size;

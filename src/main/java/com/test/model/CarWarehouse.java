@@ -10,7 +10,9 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
-
+/**
+ * Record cars rented by users
+ */
 public class CarWarehouse {
     public static List<CarStock> carStocks = new ArrayList<>();//car stocks
 

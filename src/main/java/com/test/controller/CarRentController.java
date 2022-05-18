@@ -18,6 +18,9 @@ import java.util.List;
 import java.util.Map;
 import java.util.stream.Collectors;
 
+/**
+ * the main car rent controller
+ */
 @Controller
 @RequestMapping("/car")
 public class CarRentController {

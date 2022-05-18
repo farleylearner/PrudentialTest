@@ -5,6 +5,7 @@
 # Design
 1. Three interfaces are designed according to the car rental service: query the car rental model, rent a car and cancel the car rental
 2. Everyone who rents a car needs to be marked with a userid
+3. use map to storage the cars and who rent the cars 
 
 # Interface
 ## Query the car rental model of the current company
